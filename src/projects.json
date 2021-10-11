@@ -1,0 +1,29 @@
+[
+    {
+        "title": "A Drink Around Here",
+        "image": "https://user-images.githubusercontent.com/78819957/121971939-ec8d7e00-cd47-11eb-8f45-93aec3b33842.png",
+        "about": 
+        "A Drink Around Here is a brewery search application. When the user inputs their location, it will display information on breweries nearby. Clicking onto a listed brewery opens a window with location information, and it also searches the area for entertainment events the user might be interested in and will also display the current weather.",
+        "technologies": [""],
+        "repo": "https://github.com/EthanHarsh/A_Drink_Around_Here",
+        "site": "https://ethanharsh.github.io/A_Drink_Around_Here/"
+    },
+    {
+        "title": "Work Day",
+        "image": "",
+        "about": 
+            "This project had me produce a Work Day Simulator. The idea is to use Module.js to have the time at the top in the Jumbotron stay up to date with each day. It also wanted me to create an 8 hour work day divided into each hour, and next to each hour row was a textbox for the user to input a to do item. Next to that is a save button, which is to create a local save for the list to maintain itself locally if the page was refreshed.",
+        "technologies": [""],
+        "repo": "https://github.com/slongy7/Work-Day",
+        "site": "https://slongy7.github.io/Work-Day/"
+    },
+    {
+        "title": "Workout Tracker",
+        "image": "",
+        "about": 
+            "This application is a tracker for workouts. It uses a Mongo database with a Mongoose schema and handles routes with Express.",
+        "technologies": [""],
+        "repo": "https://github.com/slongy7/fitness-tracker",
+        "site": "https://nameless-wave-36194.herokuapp.com/?id=6154e10ebbc04a0016b273e2"
+    }
+]
